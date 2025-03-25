@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Data Profiling
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
